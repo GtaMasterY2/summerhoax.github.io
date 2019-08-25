@@ -288,7 +288,10 @@
 			    <li data-placement="left" data-toggle="tooltip" title="VapeHost has many issues such as downtime, ignoring customers & of course using bad security practices a data breach occured of all client data (Including Address's, Phone Numbers & Payment Info). VapeHost is one of the Lifetime Host's which advertise hosting for your lifetime, but as expected it's lifetime of the company. VapeHost got compromised NotFound ghosted the whole discord for days and still never made a public statement about the breach.">
                             <a href="https://vapehost.cc">VapeHost</a>
                         </li>
-			    
+			</li>
+			    <li data-placement="left" data-toggle="tooltip" title="IPvD, the owner of the webhost, uses and defends Nulled WHMCS. He gives the reasoning of not having enough money, but he can afford servers for webhosting.">
+                            <a href="https://ipvd.host">IPvD Webhosting</a>
+                        </li>    
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
                 </div>
