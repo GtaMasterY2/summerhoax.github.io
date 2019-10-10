@@ -238,6 +238,12 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
+                         <li data-placement="left" data-toggle="tooltip" title="A massive scum host ran by former FalixNodes (another shit host) staff. Using nulled themes, lying about it, claiming that it was custom then openly saying they simply don't care if the cracked themes has massive exploits. These fuckers also used lifetime free servers to attract people to their little Discord then deleted the free node a week later. ">
+                            <a href="https://panel.easly.host">Easly.host</a>
+                        </li>	
+                         <li data-placement="left" data-toggle="tooltip" title="A clown host ran by Bryan Kea, the hobo who obtains his free servers using fake bank account numbers. Use this amazing free host if you want to give this underage kid who engaged in identity theft your personal information.">
+                            <a href="https://discord.gg/geYdah">PlatinumNodes</a>
+                        </li>				 
                          <li data-placement="left" data-toggle="tooltip" title="Classic summerhost: No SSL, Nulled WHMCS, Freenom domain, lying about specs (claiming to have dual i9-9900K).">
                             <a href="http://wizardland.tk/">WizardLand.tk</a>
                         </li>				    
@@ -282,16 +288,19 @@
 			<li data-placement="left" data-toggle="tooltip" title="They have used an illegal version of WHMCS and people are being scammed there. Domain has been seized by the hoster">
                             <a href="http://www.rainhosting.nl">RainHosting</a>
                         </li>
-            		<li data-placement="left" data-toggle="tooltip" title="Jules Durand, the owner of Skoali put hundreds of backdoors, pruned his messages and claimed that the people who provided proof was just spamming him  (for 4+ months???)">
-                            <a href="https://www.skoali.fr">Skoali</a>
-                        </li>
-			    <li data-placement="left" data-toggle="tooltip" title="VapeHost has many issues such as downtime, ignoring customers & of course using bad security practices a data breach occured of all client data (Including Address's, Phone Numbers & Payment Info). VapeHost is one of the Lifetime Host's which advertise hosting for your lifetime, but as expected it's lifetime of the company. VapeHost got compromised NotFound ghosted the whole discord for days and still never made a public statement about the breach.">
+			<li data-placement="left" data-toggle="tooltip" title="VapeHost has many issues such as downtime, ignoring customers & of course using bad security practices a data breach occured of all client data (Including Address's, Phone Numbers & Payment Info). VapeHost is one of the Lifetime Host's which advertise hosting for your lifetime, but as expected it's lifetime of the company. VapeHost got compromised NotFound ghosted the whole discord for days and still never made a public statement about the breach.">
                             <a href="https://vapehost.cc">VapeHost</a>
                         </li>
 			</li>
 			    <li data-placement="left" data-toggle="tooltip" title="MCFreeHosting LTD's owner, MVP, scammed a client from a WHMCS key. After charging back for the WHMCS key, the client lost all his accounts on his reseller account. They sell cheap Hetzner servers and have admitted that they might shutdown soon. One of the managers, IPvD said &quot;I hate ni**ers they deserve die&quot; and blamed it on autocorrect. Inside the Summerhoax discord, he also called everyone &quot;fag***s&quot; and was banned. In a ticket with one of the clients affected in a partnership closure, they called hosts &quot;gay&quot;. Very unprofessional host.">
                             <a href="https://redrock.host">MCFreeHosting LTD</a>
                         </li>			    
+			    <li data-placement="left" data-toggle="tooltip" title="ReallyFast "LLC" is a hosting company that is very suspicious and exit scammed, they offered lifetime hosting but both owners "Resigned" to a new owner who's account had been made immediately the day it was transferred. This host is a scam.">
+                            <a href="https://reallyfast.host">ReallyFast "LLC"</a>
+			</li>
+			    <li data-placement="left" data-toggle="tooltip" title="RapidHost is a host that used a contabo vps from NickE and sold a user 15GB ram and when they lost their nodes they refused give the customer half their money back and started deleting their dms with the customer to try stop him getting proof he was scammed">
+                            <a href="https://panel.rapidmc.xyz">RapidHost</a>
+			</li>
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
                 </div>
@@ -364,6 +373,9 @@
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="This unintelligent leaker paid for a resource using his leak name (awecrift). While attempting to crack the resource, he removed one too many lines and resulted in nuking one of his nodes. 'I won't leak anymore'[sic]">
                             <a href="#">ItzAwesome </a>
+                        </li>
+                        <li data-placement="left" data-toggle="tooltip" title="The famous hobo who literally uses fake bank account numbers to obtain his free nodes. ">
+                            <a href="#">Bryan Kea </a>
                         </li>
                     </ul>
                 </div>
